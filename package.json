@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/PawelJanecki/typescript-lang#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "typescript": "^5.1.3"
   }
 }
